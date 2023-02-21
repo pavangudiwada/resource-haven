@@ -1,0 +1,12 @@
+# Open Source
+
+
+## 📜Roadmaps
+
+## 📺Courses
+
+## 💬Communities(Discord, slack, etc)
+## 🏟Conferences
+## 🎙️Podcasts
+## 📚Resource collections
+## 💼Jobs
