@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkresource_haven=self.webpackChunkresource_haven||[]).push([[441],{408:e=>{e.exports=JSON.parse('{"permalink":"/resource-haven/blog/tags/hello","page":1,"postsPerPage":10,"totalPages":1,"totalCount":2,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

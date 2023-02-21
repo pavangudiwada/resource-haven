@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkresource_haven=self.webpackChunkresource_haven||[]).push([[4576],{6265:e=>{e.exports=JSON.parse('{"label":"facebook","permalink":"/resource-haven/blog/tags/facebook","allTagsPath":"/resource-haven/blog/tags","count":1}')}}]);

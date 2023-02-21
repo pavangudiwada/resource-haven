@@ -1,0 +1,1 @@
+(self.webpackChunkresource_haven=self.webpackChunkresource_haven||[]).push([[5525],{5525:()=>{}}]);
