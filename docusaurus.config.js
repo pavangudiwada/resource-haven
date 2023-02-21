@@ -11,7 +11,7 @@ const config = {
   // favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://pavangudiwada.github.io',
+  url: 'https://github.com',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/resource-haven',
@@ -19,7 +19,7 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'pavangudiwada', // Usually your GitHub org/user name.
-  projectName: 'pavangudiwada.github.io', // Usually your repo name.
+  projectName: 'resource-haven', // Usually your repo name.
   deploymentBranch: 'gh-pages',
   trailingSlash: false,
 
